@@ -1,0 +1,15 @@
+#reports{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   font-size: 12px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+ div{
+   background: rgb(213, 210, 209);
+   border-radius: 3px;
+   margin: 3px;
+   padding: 8px;
+   border: 1px solid
+ }
